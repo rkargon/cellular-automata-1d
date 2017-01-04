@@ -8,3 +8,5 @@ python cellular-automata.py <rule-number> <img-width> <num_generations> <outfile
 ```
 
 Example rule numbers can be found in `rules.txt`.
+Rule numbers are specified in ["Wolfram Code"](https://en.wikipedia.org/wiki/Wolfram_code). 
+
